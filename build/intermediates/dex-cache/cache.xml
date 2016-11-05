@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/kbenavente/AndroidStudioProjects/AccelerometerPlay/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2c6d718e0fabf995b2e2b6f0fc2b723efb5a33a6">
+        <dex dex="/Users/kbenavente/AndroidStudioProjects/AccelerometerPlay/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4797fc6b8b8b12df5c0cda17a366aef23f6ec736/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kbenavente/AndroidStudioProjects/AccelerometerPlay/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="801eab88235fd79edc89d02b2467b58457c4fc27">
+        <dex dex="/Users/kbenavente/AndroidStudioProjects/AccelerometerPlay/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d8602f94bdd41a6ffe4e4d543c55a316a6420d42/classes.dex" />
+    </item>
+
+</items>

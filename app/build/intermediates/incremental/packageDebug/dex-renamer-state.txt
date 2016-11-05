@@ -1,0 +1,7 @@
+#Sat Nov 05 00:00:52 PDT 2016
+base.0=/Users/kbenavente/AndroidStudioProjects/AccelerometerPlay/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4797fc6b8b8b12df5c0cda17a366aef23f6ec736
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/kbenavente/AndroidStudioProjects/AccelerometerPlay/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d8602f94bdd41a6ffe4e4d543c55a316a6420d42/classes.dex
+base.1=/Users/kbenavente/AndroidStudioProjects/AccelerometerPlay/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d8602f94bdd41a6ffe4e4d543c55a316a6420d42
+file.0=/Users/kbenavente/AndroidStudioProjects/AccelerometerPlay/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4797fc6b8b8b12df5c0cda17a366aef23f6ec736/classes.dex
